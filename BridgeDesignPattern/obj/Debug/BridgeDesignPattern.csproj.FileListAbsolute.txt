@@ -1,0 +1,7 @@
+C:\Users\cris_\RiderProjects\RemoteControlsBridge\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Users\cris_\RiderProjects\RemoteControlsBridge\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Users\cris_\RiderProjects\RemoteControlsBridge\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\cris_\RiderProjects\RemoteControlsBridge\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\RiderProjects\RemoteControlsBridge\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\cris_\RiderProjects\RemoteControlsBridge\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Users\cris_\RiderProjects\RemoteControlsBridge\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb
